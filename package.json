@@ -1,0 +1,12 @@
+{
+  "name": "coze-proxy",
+  "version": "2.0.0",
+  "description": "coze workflow proxy deployed on Vercel.",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
